@@ -16,10 +16,10 @@ const Preise = () => {
   return (
     <div className="min-h-screen">
       <SEO
-        title="Heizöl Preise & Konditionen | Ab 70 Cent/L | Kölner Kraftstoff"
+        title="Heizöl Preise & Konditionen | Ab 70 Cent/L | UMH Heizöl"
         description="Transparente Heizöl-Preise ohne versteckte Kosten. Standard Heizöl ab 70 Cent/L, Premium ab 73 Cent/L. Preisgarantie bis zur Lieferung!"
-        keywords="Heizöl Preise, Heizöl Kosten, Preisgarantie, transparente Preise, Heizöl günstig kaufen, Köln"
-        canonicalUrl="https://koelnerkraftstoff-heizoel.de/preise"
+        keywords="Heizöl Preise, Heizöl Kosten, Preisgarantie, transparente Preise, Heizöl günstig kaufen"
+        canonicalUrl="https://umh-heizoel.de/preise"
       />
       <Header />
       

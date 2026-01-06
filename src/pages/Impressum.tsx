@@ -6,10 +6,10 @@ const Impressum = () => {
   return (
     <div className="min-h-screen bg-gray-50">
         <SEO
-        title="Impressum | Kölner Kraftstoff | Rechtliche Angaben"
-        description="Impressum der Kölner Kraftstoff (Kölner Kraftstoff GmbH & Co. KG) - Alle rechtlichen Angaben, Kontaktdaten und Registereintrag. Amtsgericht Köln HRA 27679."
-        keywords="Impressum, Kölner Kraftstoff, Köln, HRA 27679, rechtliche Angaben"
-        canonicalUrl="https://koelnerkraftstoff-heizoel.de/impressum"
+        title="Impressum | UMH Heizöl | Rechtliche Angaben"
+        description="Impressum der UMH Heizöl (UMH Handels - GmbH) - Alle rechtlichen Angaben, Kontaktdaten und Registereintrag. Amtsgericht München HRB 107149."
+        keywords="Impressum, UMH Heizöl, Schwabhausen, HRB 107149, rechtliche Angaben"
+        canonicalUrl="https://umh-heizoel.de/impressum"
       />
       <Header />
       
@@ -22,9 +22,9 @@ const Impressum = () => {
               <section>
                 <h2 className="text-2xl font-semibold text-gray-900 mb-4">Angaben gemäß § 5 TMG</h2>
                 <div className="space-y-2">
-                  <p><strong>Kölner Kraftstoff (Kölner Kraftstoff GmbH & Co. KG)</strong></p>
-                  <p>Dieselstr. 10</p>
-                  <p>50996 Köln</p>
+                  <p><strong>UMH Heizöl (UMH Handels - GmbH)</strong></p>
+                  <p>Augsburger Str. 9a</p>
+                  <p>85247 Schwabhausen</p>
                   <p>Deutschland</p>
                 </div>
               </section>
@@ -32,8 +32,7 @@ const Impressum = () => {
               <section>
                 <h2 className="text-2xl font-semibold text-gray-900 mb-4">Kontakt</h2>
                 <div className="space-y-2">
-                  <p><strong>Telefon:</strong> 0221 29291090</p>
-                  <p><strong>E-Mail:</strong> info@koelnerkraftstoff-heizoel.de</p>
+                  <p><strong>E-Mail:</strong> info@umh-heizoel.de</p>
                 </div>
               </section>
 
@@ -41,23 +40,28 @@ const Impressum = () => {
                 <h2 className="text-2xl font-semibold text-gray-900 mb-4">Registereintrag</h2>
                 <div className="space-y-2">
                   <p><strong>Eintragung im Handelsregister:</strong></p>
-                  <p>Registergericht: Amtsgericht Köln</p>
-                  <p>Registernummer: HRA 27679</p>
+                  <p>Registergericht: Amtsgericht München</p>
+                  <p>Registernummer: HRB 107149</p>
                 </div>
+              </section>
+
+              <section>
+                <h2 className="text-2xl font-semibold text-gray-900 mb-4">Geschäftsführer</h2>
+                <p>Michael Hagitte</p>
               </section>
 
               <section>
                 <h2 className="text-2xl font-semibold text-gray-900 mb-4">Umsatzsteuer-ID</h2>
                 <p>Umsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz:</p>
-                <p><strong>DE302487506</strong></p>
+                <p><strong>DE354426258</strong></p>
               </section>
 
               <section>
                 <h2 className="text-2xl font-semibold text-gray-900 mb-4">Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV</h2>
                 <div className="space-y-2">
-                  <p>Kölner Kraftstoff (Kölner Kraftstoff GmbH & Co. KG)</p>
-                  <p>Dieselstr. 10</p>
-                  <p>50996 Köln</p>
+                  <p>UMH Heizöl (UMH Handels - GmbH)</p>
+                  <p>Augsburger Str. 9a</p>
+                  <p>85247 Schwabhausen</p>
                 </div>
               </section>
 
