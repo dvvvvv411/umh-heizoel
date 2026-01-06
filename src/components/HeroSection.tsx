@@ -88,7 +88,7 @@ const HeroSection = () => {
                 <h1 className="text-5xl lg:text-6xl xl:text-7xl font-black text-gray-900 leading-[0.9] tracking-tight">
                   <span className="text-[#ef1c23] font-black">Günstigster Heizöl-Anbieter</span>
                   <br />
-                  <span className="text-4xl lg:text-5xl xl:text-6xl font-bold text-gray-600">aus Köln für ganz Deutschland</span>
+                  <span className="text-4xl lg:text-5xl xl:text-6xl font-bold text-gray-600">deutschlandweit für Sie</span>
                 </h1>
                 <div className="w-24 h-1 bg-gradient-to-r from-primary to-primary/50 rounded-full"></div>
               </div>
@@ -96,7 +96,7 @@ const HeroSection = () => {
               <h2 className="text-2xl lg:text-3xl text-gray-700 font-light leading-relaxed">
                 Premium Heizöl ab <span className="font-bold text-primary">70 Cent pro Liter</span>
                 <br />
-                <span className="text-xl text-gray-600">Kostenlose Lieferung ab 2.000L – von Köln nach ganz Deutschland</span>
+                <span className="text-xl text-gray-600">Kostenlose Lieferung ab 2.000L – deutschlandweit</span>
               </h2>
             </div>
 
@@ -139,12 +139,12 @@ const HeroSection = () => {
             {/* CTA Section */}
             <div className="space-y-4">
               <p className="text-xl text-gray-700 leading-relaxed">
-                Als führender Heizöl-Händler aus Köln liefern wir Premium-Qualität zu 
+                Als führender Heizöl-Händler liefern wir Premium-Qualität zu 
                 <span className="font-semibold text-primary"> bis zu 30% günstigeren Preisen</span> als lokale Anbieter – deutschlandweit.
               </p>
               <div className="flex items-center gap-2 text-sm text-gray-600">
                 <div className="w-2 h-2 bg-green-500 rounded-full animate-pulse"></div>
-                <span>Von Köln aus vertrauen über 100.000 Kunden bundesweit auf unsere Qualität</span>
+                <span>Über 100.000 Kunden deutschlandweit vertrauen auf unsere Qualität</span>
               </div>
             </div>
           </div>
