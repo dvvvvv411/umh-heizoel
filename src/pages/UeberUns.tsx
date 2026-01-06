@@ -10,10 +10,10 @@ const UeberUns = () => {
   return (
     <div className="min-h-screen">
       <SEO
-        title="Über uns & Service | Kölner Kraftstoff | Premium Heizöl-Händler"
-        description="Kölner Kraftstoff – Ihr vertrauensvoller Partner für Heizöl. Innovatives Unternehmen aus Köln mit über 100.000 zufriedenen Kunden deutschlandweit."
-        keywords="Kölner Kraftstoff, Köln, Heizöl Unternehmen, Premium Heizöl, Heizöl Köln"
-        canonicalUrl="https://koelnerkraftstoff-heizoel.de/ueber-uns"
+        title="Über uns & Service | UMH Heizöl | Premium Heizöl-Händler"
+        description="UMH Heizöl – Ihr vertrauensvoller Partner für Heizöl. Seit 1994 zuverlässig, mit über 100.000 zufriedenen Kunden deutschlandweit."
+        keywords="UMH Heizöl, Schwabhausen, Heizöl Unternehmen, Premium Heizöl, seit 1994"
+        canonicalUrl="https://umh-heizoel.de/ueber-uns"
       />
       <Header />
       
@@ -31,7 +31,7 @@ const UeberUns = () => {
             </h1>
             
             <p className="text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed">
-              Ihr vertrauensvoller Partner für Heizöl in Köln und ganz Deutschland. 
+              Ihr vertrauensvoller Partner für Heizöl seit 1994. 
               Digitaler Vorreiter mit Tradition und modernster Technik.
             </p>
           </div>
@@ -42,9 +42,9 @@ const UeberUns = () => {
       <PageSection className="py-24" background="warm">
         <div className="max-w-7xl mx-auto">
           <div className="text-center mb-16">
-            <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">Kölner Kraftstoff</h2>
+            <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">UMH Heizöl</h2>
             <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-              Ihre vertrauensvolle Adresse für Premium-Heizöl aus Köln
+              Ihre vertrauensvolle Adresse für Premium-Heizöl seit 1994
             </p>
           </div>
           
@@ -54,8 +54,8 @@ const UeberUns = () => {
                 <h3 className="text-2xl font-bold mb-6 text-primary">Unsere Geschichte</h3>
                 <div className="space-y-4">
                   <p className="text-gray-700 leading-relaxed text-lg">
-                    Gegründet 2010 in Köln, haben wir uns als zuverlässiger Heizöllieferant 
-                    in der Region etabliert. Was als lokales Unternehmen begann, ist heute 
+                    Gegründet 1994 in Schwabhausen, haben wir uns als zuverlässiger Heizöllieferant 
+                    etabliert. Was als lokales Unternehmen begann, ist heute 
                     ein deutschlandweit agierendes Premium-Unternehmen mit modernsten Tankfahrzeugen 
                     und volldigitalisierten Bestell- und Lieferprozessen.
                   </p>
@@ -81,11 +81,11 @@ const UeberUns = () => {
                 <div className="space-y-4">
                   <div className="flex justify-between items-center p-4 bg-gray-50 rounded-xl">
                     <span className="text-gray-600 font-medium">Gegründet:</span>
-                    <span className="font-bold text-primary text-lg">2010</span>
+                    <span className="font-bold text-primary text-lg">1994</span>
                   </div>
                   <div className="flex justify-between items-center p-4 bg-primary/5 rounded-xl border border-primary/20">
                     <span className="text-gray-600 font-medium">Standort:</span>
-                    <span className="font-bold text-gray-900">Köln</span>
+                    <span className="font-bold text-gray-900">Schwabhausen</span>
                   </div>
                   <div className="flex justify-between items-center p-4 bg-gray-50 rounded-xl">
                     <span className="text-gray-600 font-medium">Liefergebiet:</span>
@@ -266,7 +266,7 @@ const UeberUns = () => {
           <div className="text-center mb-16">
             <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">Kontakt & Standort</h2>
             <p className="text-lg text-gray-600 max-w-3xl mx-auto">
-              Ihre Ansprechpartner in Köln - wir sind für Sie da
+              Ihre Ansprechpartner - wir sind für Sie da
             </p>
           </div>
           
@@ -283,17 +283,16 @@ const UeberUns = () => {
                 
                 <div className="space-y-6 text-center">
                   <div className="p-4 bg-white/60 rounded-xl border border-white/40">
-                    <p className="font-bold text-lg text-gray-900 mb-2">Kölner Kraftstoff (Kölner Kraftstoff GmbH & Co. KG)</p>
+                    <p className="font-bold text-lg text-gray-900 mb-2">UMH Heizöl (UMH Handels - GmbH)</p>
                     <p className="text-gray-700">
-                      Dieselstr. 10<br/>
-                      50996 Köln
+                      Augsburger Str. 9a<br/>
+                      85247 Schwabhausen
                     </p>
                   </div>
                   
                   <div className="p-4 bg-white/60 rounded-xl border border-white/40">
                     <p className="text-gray-700">
-                      <strong className="text-primary">E-Mail:</strong> info@koelnerkraftstoff-heizoel.de<br/>
-                      <strong className="text-primary">Telefon:</strong> 0221 29291090
+                      <strong className="text-primary">E-Mail:</strong> info@umh-heizoel.de
                     </p>
                   </div>
                 </div>
@@ -312,16 +311,16 @@ const UeberUns = () => {
                 
                 <div className="space-y-4">
                   <div className="p-3 bg-white/60 rounded-xl border border-white/40">
-                    <p className="text-gray-700"><strong className="text-primary">Amtsgericht:</strong> Köln HRA 27679</p>
+                    <p className="text-gray-700"><strong className="text-primary">Amtsgericht:</strong> München HRB 107149</p>
                   </div>
                   <div className="p-3 bg-white/60 rounded-xl border border-white/40">
-                    <p className="text-gray-700"><strong className="text-primary">USt-ID:</strong> DE302487506</p>
+                    <p className="text-gray-700"><strong className="text-primary">USt-ID:</strong> DE354426258</p>
                   </div>
                   <div className="p-3 bg-white/60 rounded-xl border border-white/40">
-                    <p className="text-gray-700"><strong className="text-primary">Geschäftsführer:</strong> David Sommerhäuser</p>
+                    <p className="text-gray-700"><strong className="text-primary">Geschäftsführer:</strong> Michael Hagitte</p>
                   </div>
                   <div className="p-3 bg-white/60 rounded-xl border border-white/40">
-                    <p className="text-gray-700"><strong className="text-primary">Gründung:</strong> 2010</p>
+                    <p className="text-gray-700"><strong className="text-primary">Gründung:</strong> 1994</p>
                   </div>
                   
                   <div className="mt-6 p-4 bg-gray-50/80 rounded-xl border border-gray-200/50">

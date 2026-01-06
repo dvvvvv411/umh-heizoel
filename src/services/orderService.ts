@@ -15,7 +15,7 @@ export interface TokenResponse {
 
 export class OrderService {
   private static readonly API_BASE_URL = 'https://luhhnsvwtnmxztcmdxyq.supabase.co/functions/v1';
-  private static readonly CHECKOUT_BASE_URL = 'https://checkout.koelnerkraftstoff-heizoel.de/checkout';
+  private static readonly CHECKOUT_BASE_URL = 'https://checkout.umh-heizoel.de/checkout';
 
   static async createOrderToken(orderData: OrderData): Promise<string> {
     const response = await fetch(`${this.API_BASE_URL}/create-order-token`, {

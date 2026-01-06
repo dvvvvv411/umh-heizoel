@@ -1,44 +1,41 @@
 export const companyInfo = {
   // Brand Information
-  brandName: "Kölner Kraftstoff",
-  legalName: "Kölner Kraftstoff GmbH & Co. KG",
+  brandName: "UMH Heizöl",
+  legalName: "UMH Handels - GmbH",
   
   // Address
-  street: "Dieselstr. 10",
-  postalCode: "50996",
-  city: "Köln",
+  street: "Augsburger Str. 9a",
+  postalCode: "85247",
+  city: "Schwabhausen",
   country: "DE",
   
   // Contact Information
-  email: "info@koelnerkraftstoff-heizoel.de",
-  phoneDisplay: "0221 29291090",
-  phoneIntl: "+49 221 29291090",
-  phoneTel: "+4922129291090",
+  email: "info@umh-heizoel.de",
   
   // Legal Information
-  court: "Amtsgericht Köln",
-  hrb: "HRA 27679",
-  vatId: "DE302487506",
-  ceo: "David Sommerhäuser",
+  court: "Amtsgericht München",
+  hrb: "HRB 107149",
+  vatId: "DE354426258",
+  ceo: "Michael Hagitte",
   
   // Business Information
-  foundingYear: "2010",
-  yearsOfExperience: "15+",
+  foundingYear: "1994",
+  yearsOfExperience: "30+",
   
   // Assets
   logo: "/lovable-uploads/koelner-kraftstoff-logo.png",
   
-  // Geographic Coordinates (Köln, near Dieselstr. 10)
+  // Geographic Coordinates (Schwabhausen, near Augsburger Str. 9a)
   geo: {
-    lat: 50.889,
-    lng: 6.943
+    lat: 48.3,
+    lng: 11.4
   },
   
   // Website
-  website: "https://koelnerkraftstoff-heizoel.de",
+  website: "https://umh-heizoel.de",
   
   // Full address string
-  fullAddress: "Dieselstr. 10, 50996 Köln",
+  fullAddress: "Augsburger Str. 9a, 85247 Schwabhausen",
   
   // Company description
   shortDescription: "Ihr vertrauensvoller Partner für hochwertiges Heizöl. Deutschlandweite Premium-Lieferung ab 70 Cent pro Liter.",

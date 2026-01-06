@@ -1,10 +1,17 @@
 
 import Header from '../components/Header';
 import Footer from '../components/Footer';
+import SEO from '../components/SEO';
 
 const Datenschutz = () => {
   return (
     <div className="min-h-screen bg-gray-50">
+      <SEO
+        title="Datenschutz | UMH Heizöl | Datenschutzerklärung"
+        description="Datenschutzerklärung der UMH Handels - GmbH. Informationen zur Datenverarbeitung und Ihren Rechten."
+        keywords="Datenschutz, Datenschutzerklärung, UMH Heizöl, DSGVO"
+        canonicalUrl="https://umh-heizoel.de/datenschutz"
+      />
       <Header />
       
       <main className="py-20">
@@ -27,10 +34,10 @@ const Datenschutz = () => {
                 <h3 className="text-lg font-semibold mb-2 mt-4">Verantwortliche Stelle</h3>
                 <div className="space-y-2">
                   <p>Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:</p>
-                  <p><strong>Kölner Kraftstoff GmbH & Co. KG</strong></p>
-                  <p>Dieselstr. 10</p>
-                  <p>50996 Köln</p>
-                  <p>E-Mail: info@koelnerkraftstoff-heizoel.de</p>
+                  <p><strong>UMH Handels - GmbH</strong></p>
+                  <p>Augsburger Str. 9a</p>
+                  <p>85247 Schwabhausen</p>
+                  <p>E-Mail: info@umh-heizoel.de</p>
                 </div>
               </section>
 
