@@ -2,6 +2,7 @@
 import { Calculator, Menu, X } from 'lucide-react';
 import { useState, useEffect } from 'react';
 import { Link, useLocation } from 'react-router-dom';
+import umhLogo from '@/assets/umh-logo.png';
 
 const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -62,7 +63,7 @@ const Header = () => {
           <div className="flex items-center lg:flex-none flex-1 lg:flex-initial justify-center lg:justify-start">
             <Link to="/" onClick={handleNavClick} className="group">
               <img 
-                src="/lovable-uploads/koelner-kraftstoff-logo.png" 
+                src={umhLogo} 
                 alt="UMH Heizöl" 
                 className="h-20 w-auto transition-transform duration-300 group-hover:scale-105"
               />
