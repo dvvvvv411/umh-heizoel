@@ -5,7 +5,7 @@ const TrustSection = () => {
   const testimonials = [
     {
       name: "Maria Schmidt",
-      location: "Köln",
+      location: "München",
       rating: 5,
       text: "Fantastischer Service! Das Heizöl wurde pünktlich geliefert und der Preis war unschlagbar. Werden definitiv wieder bestellen.",
       date: "vor 2 Wochen",
@@ -83,8 +83,8 @@ const TrustSection = () => {
             Was unsere <span className="gradient-text">Kunden sagen</span>
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed">
-            Kölner Kraftstoff beliefert über 100.000 zufriedene Kunden in ganz Deutschland. 
-            Aus Köln heraus liefern wir Premium-Heizöl bundesweit – lesen Sie, was unsere Kunden sagen.
+            UMH Heizöl beliefert über 100.000 zufriedene Kunden in ganz Deutschland. 
+            Wir liefern Premium-Heizöl bundesweit – lesen Sie, was unsere Kunden sagen.
           </p>
         </div>
 

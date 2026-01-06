@@ -23,7 +23,7 @@ export const companyInfo = {
   yearsOfExperience: "30+",
   
   // Assets
-  logo: "/lovable-uploads/koelner-kraftstoff-logo.png",
+  logo: "/src/assets/umh-logo.png",
   
   // Geographic Coordinates (Schwabhausen, near Augsburger Str. 9a)
   geo: {

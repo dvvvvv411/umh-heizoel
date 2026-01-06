@@ -13,7 +13,7 @@ const USPSection = () => {
     {
       icon: Truck,
       title: "Kostenlose Lieferung ab 2.000L",
-      description: "Von Köln aus liefern wir deutschlandweit kostenfrei ab 2.000L. Zuverlässige Premium-Anlieferung zu Ihrem Wunschtermin – egal wo in Deutschland Sie sind.",
+      description: "Wir liefern deutschlandweit kostenfrei ab 2.000L. Zuverlässige Premium-Anlieferung zu Ihrem Wunschtermin – egal wo in Deutschland Sie sind.",
       highlight: "Deutschlandweit",
       accent: "from-red-500 to-rose-600"
     },
@@ -45,10 +45,10 @@ const USPSection = () => {
             Premium Heizöl Service
           </div>
           <h2 className="text-5xl lg:text-6xl font-bold text-gray-900 mb-6">
-            Warum <span className="gradient-text">Kölner Kraftstoff</span>?
+            Warum <span className="gradient-text">UMH Heizöl</span>?
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed">
-            Kölner Kraftstoff – Premium Heizöl aus Köln für ganz Deutschland. Entdecken Sie unsere überzeugenden Vorteile und verlässlichen Service.
+            UMH Heizöl – Premium Heizöl für ganz Deutschland. Entdecken Sie unsere überzeugenden Vorteile und verlässlichen Service.
           </p>
         </div>
 

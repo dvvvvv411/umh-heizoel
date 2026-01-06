@@ -5,7 +5,7 @@ export const companyStructuredData = {
   "name": "UMH Heizöl",
   "alternateName": "UMH Handels - GmbH",
   "url": "https://umh-heizoel.de",
-  "logo": "/lovable-uploads/koelner-kraftstoff-logo.png",
+  "logo": "https://umh-heizoel.de/src/assets/umh-logo.png",
   "contactPoint": {
     "@type": "ContactPoint",
     "contactType": "customer service",
@@ -43,7 +43,7 @@ export const localBusinessStructuredData = {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
   "name": "UMH Heizöl",
-  "image": "/lovable-uploads/koelner-kraftstoff-logo.png",
+  "image": "https://umh-heizoel.de/src/assets/umh-logo.png",
   "@id": "https://umh-heizoel.de",
   "url": "https://umh-heizoel.de",
   "address": {
