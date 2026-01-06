@@ -1,6 +1,7 @@
 
 import { Mail, MapPin } from 'lucide-react';
 import { Link } from 'react-router-dom';
+import umhLogo from '@/assets/umh-logo.png';
 
 const Footer = () => {
   return (
@@ -16,7 +17,7 @@ const Footer = () => {
             <div className="space-y-6">
               <div>
                 <img 
-                  src="/lovable-uploads/koelner-kraftstoff-logo.png" 
+                  src={umhLogo} 
                   alt="UMH Heizöl" 
                   className="h-24 w-auto mb-4"
                 />
